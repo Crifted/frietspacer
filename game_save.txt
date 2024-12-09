@@ -1,0 +1,1 @@
+a:2:{i:0;O:9:"FrietShip":4:{s:7:"isAlive";b:1;s:4:"ammo";i:100;s:9:"hitPoints";i:100;s:4:"name";s:14:"Frietje Oorlog";}i:1;O:9:"FrietShip":4:{s:7:"isAlive";b:1;s:4:"ammo";i:100;s:9:"hitPoints";i:100;s:4:"name";s:14:"Frietje Zonder";}}
